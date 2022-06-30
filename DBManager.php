@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "Robin.hood99";
+$password = "";
 $database = "scan";
 
 $conn = mysqli_connect($servername, $username, $password, $database);
